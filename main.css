@@ -3,26 +3,18 @@ body {
 }
 .linesep {
     text-align: center;
-    font-family: cursive;
-    font-size: 30px;
+    font-family: century;
+    font-size: 60px;
     color: black;
     text-shadow: 0px 2px whitesmoke;
-    height: 40px;
+    height: 80px;
     background-color: burlywood;
     width: 100%;
     margin-top: 50px;
     border-style: groove;
     border-color: whitesmoke;
+    text-decoration: underline;
 
-}
-
-#about {
-    background-color: burlywood;
-    height: 40px;
-    width: 100%;
-    margin-top: 50px;
-    border-style: ridge;
-    border-color: whitesmoke;
 }
 
 #top {
@@ -94,5 +86,28 @@ li {
     text-align: left;
     
 }
+
+#about {
+    background-color: burlywood;
+    height: 200px;
+    width: 100%;
+    margin-top: 50px;
+    border-style: ridge;
+    border-color: whitesmoke;
+}
+
+#sum {
+    text-align: center;
+    font-family: century;
+    font-size: 40px;
+    text-decoration: underline;
+}
+
+#text {
+    text-align: center;
+    font-size: 23px;
+
+}
+
 
 
